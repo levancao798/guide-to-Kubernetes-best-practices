@@ -4,3 +4,7 @@
 - Discover services running outside the cluster
 - Decide whether to run databases on Kubernetes
 - Understand Kubernetes termination practices
+
+
+link: https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/
+https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices
