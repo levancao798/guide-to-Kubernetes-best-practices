@@ -1,6 +1,6 @@
-Use Kubernetes Namespaces for easier resource management
-Use readiness and liveness probes for health checks
-Keep control of your deployment with requests and limits
-Discover services running outside the cluster
-Decide whether to run databases on Kubernetes
-Understand Kubernetes termination practices
+- Use Kubernetes Namespaces for easier resource management
+- Use readiness and liveness probes for health checks
+- Keep control of your deployment with requests and limits
+- Discover services running outside the cluster
+- Decide whether to run databases on Kubernetes
+- Understand Kubernetes termination practices
